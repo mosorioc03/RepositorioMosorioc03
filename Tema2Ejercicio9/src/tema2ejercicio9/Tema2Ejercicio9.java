@@ -6,7 +6,7 @@ package tema2ejercicio9;
 
 /**
  *
- * @author infto
+ * @author mosorioc03
  */
 public class Tema2Ejercicio9 {
 

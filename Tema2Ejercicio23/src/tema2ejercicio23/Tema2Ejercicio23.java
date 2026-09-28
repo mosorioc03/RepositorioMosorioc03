@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author infto
+ * @author mosorioc03
  */
 public class Tema2Ejercicio23 {
 
